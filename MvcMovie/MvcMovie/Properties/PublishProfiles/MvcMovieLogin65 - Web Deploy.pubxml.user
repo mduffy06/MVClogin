@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAITxHOl8BukaW9CqHNrLmXQAAAAACAAAAAAAQZgAAAAEAACAAAAAlWaAGeMAJx2B8Il6MksV88MeDF/IbFPMR/lOcO6DLwgAAAAAOgAAAAAIAACAAAAAne/pxEcvOwffimvm1zszt2aU5+PqahuW46c9sjQ16W4AAAACHmDZGd0IysAi7yZueAAgNykOfuQ9dOSE6Yd6r/cQB8OAsybeKA0IvEcblg44BNTqzOF0kXOvbnKREHc6k5T+hFNH7AQq150BihUQ+58PlaWkgXhlon0DkflKZoNiSqZ5M+T2EQhaKF0hMItPd13bCWUImlDRGL+EJx/qjb8W4ykAAAACA/kwI3S2YEH0j+o73v8oO5K5AkIvWc6kc9s2jhf1tqAyQalViUuTpR4ROuWhwbkvwfimTE6l4W+arcIp+MyBZ</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MvcMovieContext">
+      <Value>Server=(localdb)\mssqllocaldb;Database=MvcMovieContext-1039ae3e-d836-46c1-98d9-4452d1d10057;Trusted_Connection=True;MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

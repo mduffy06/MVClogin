@@ -1,0 +1,44 @@
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\Lab 8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\Lab 8\Lab-8\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\Infin\source\lab9\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
